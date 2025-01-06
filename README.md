@@ -15,3 +15,5 @@
 **TOOLS**: GOOGLE COLLAB , JUPYTER NOTEBOOK WITH PYSPARK
 
 **DESCRIPTION**: DATA ANALYSIS ON A BIG DATA USING PYSPARK
+
+**output**:https://colab.research.google.com/drive/1wElVBH7svUtcbFag7Q8v5sYxNCAQusES?usp=sharing
